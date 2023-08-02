@@ -522,7 +522,8 @@ $ cd Betty; ./install.sh
 # 📣 Acknowledgments 🤜🤛
 * alx_africa (providing guidance)
 * Stack Overflow (help on various memory errors (not leaks))
-All work contained in this project was completed as part of the curriculum for the ALX-SE programme. [alx_africa](https://www.alxafrica.com/) is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning.
+
+__All work contained in this project was completed as part of the curriculum for the ALX-SE programme. [alx_africa](https://www.alxafrica.com/) is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning.__
 
 # 🔍 WARNING!!! ⚠️
 This repo is done as a school assignment. Beware of copying my responses. I recommend you to read resources and come up with your own solutions instead. Feel free to reach out for help! This repo may contain some errors. If you notice any, please add a pull request.
