@@ -519,14 +519,20 @@ $ git clone https://github.com/holbertonschool/Betty.git
 
 $ cd Betty; ./install.sh
 ```
-# 📣 Acknowledgments
+# 📣 Acknowledgments 🤜🤛
 * alx_africa (providing guidance)
 * Stack Overflow (help on various memory errors (not leaks))
+All work contained in this project was completed as part of the curriculum for the ALX-SE programme. [alx_africa](https://www.alxafrica.com/) is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning.
+
 # 🔍 WARNING!!! ⚠️
 This repo is done as a school assignment. Beware of copying my responses. I recommend you to read resources and come up with your own solutions instead. Feel free to reach out for help! This repo may contain some errors. If you notice any, please add a pull request.
 
 ## Support🎉
 _If you like how I present and document my work do me a favor of giving a **Star** ✨ to my repos |&&| a [**Follow**](https://github.com/elyse502) 👥._
+
+## 😉STAY TUNED!
+* More projects are coming soon!!!
+* I am on my way to be the best software engineer that I can possibly be🕵️‍♂️!!!
 
 ## AUTHOR📝
 *__NIYIBIZI Elysée__ | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/).*
