@@ -493,6 +493,40 @@ julien@ubuntu:~/monty/bf$ bf 1003-mul.bf
 49
 julien@ubuntu:~/monty/bf$ 
 ```
+# 🏃 Getting Started
+* [Ubuntu 22.04 LTS](https://www.google.com/search?q=ubuntu+22.04&rlz=1C1VDKB_enRW1065RW1065&oq=ubuntu+22&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEINTEzNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8) - Operating system reqd.
+* [GCC 4.8.4](https://gcc.gnu.org/gcc-4.8/) - Compiler used
+
+# ⚠️ Prerequisites
+* Must have `git` installed.
+* Must have repository cloned.
+```
+$ sudo apt-get install git
+```
+# ⬇️ Installing and Using
+Clone the repository into a new directory:
+```
+$ git clone https://github.com/elyse502/monty.git
+```
+Run the interpreter on a file:
+```
+./monty file.m
+```
+# 📚 Coding Style Tests
+Strictly followed `Betty` style guide. To install
+```
+$ git clone https://github.com/holbertonschool/Betty.git
+
+$ cd Betty; ./install.sh
+```
+# 📣 Acknowledgments
+* alx_africa (providing guidance)
+* Stack Overflow (help on various memory errors (not leaks))
+# 🔍 WARNING!!! ⚠️
+This repo is done as a school assignment. Beware of copying my responses. I recommend you to read resources and come up with your own solutions instead. Feel free to reach out for help! This repo may contain some errors. If you notice any, please add a pull request.
+
+## Support🎉
+_If you like how I present and document my work do me a favor of giving a **Star** ✨ to my repos |&&| a [**Follow**](https://github.com/elyse502) 👥._
 
 ## AUTHOR📝
 *__NIYIBIZI Elysée__ | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/).*
