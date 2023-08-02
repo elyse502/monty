@@ -58,7 +58,7 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
 ## Tests
 We strongly encourage you to work all together on a set of tests
 
-# monty interpreter🧩
+# Monty interpreter🧩
 ![monty](https://github.com/elyse502/monty/assets/125453474/218a07c2-f636-4fd8-a283-d04574f61c70)
 
 # The Monty language🗣️🔊🔉
