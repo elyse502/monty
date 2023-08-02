@@ -466,8 +466,33 @@ julien@ubuntu:~/monty/bf$ bf 1000-school.bf
 School
 julien@ubuntu:~/monty/bf$
 ```
-
-
+## 17. Add two digits: [1001-add.bf](https://github.com/elyse502/monty/blob/master/bf/1001-add.bf)
+Add two digits given by the user.
+* Read the two digits from stdin, add them, and print the result
+* The total of the two digits with be one digit-long (<10)
+```
+julien@ubuntu:~/monty/bf$ bf ./1001-add.bf
+81
+9julien@ubuntu:~/monty/bf$
+```
+## 18. Multiplication: [1002-mul.bf](https://github.com/elyse502/monty/blob/master/bf/1002-mul.bf)
+Multiply two digits given by the user.
+* Read the two digits from stdin, multiply them, and print the result
+* The result of the multiplication will be one digit-long (<10)
+```
+julien@ubuntu:~/monty/bf$ bf 1002-mul.bf
+24
+8julien@ubuntu:~/monty/bf$
+```
+## 19. Multiplication level up: [1003-mul.bf](https://github.com/elyse502/monty/blob/master/bf/1003-mul.bf)
+Multiply two digits given by the user.
+* Read the two digits from stdin, multiply them, and print the result, followed by a new line
+```
+julien@ubuntu:~/monty/bf$ bf 1003-mul.bf 
+77
+49
+julien@ubuntu:~/monty/bf$ 
+```
 
 ## AUTHOR📝
 *__NIYIBIZI Elysée__ | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/).*
