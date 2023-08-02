@@ -456,6 +456,16 @@ julien@ubuntu:~/monty$ ./monty bytecodes/47.m
 11111
 julien@ubuntu:~/monty$
 ```
+## 16. Brainf*ck: [1000-school.bf](https://github.com/elyse502/monty/blob/master/bf/1000-school.bf)
+A Brainf*ck script that prints `School`, followed by a new line.
+* All your Brainf*ck files should be stored inside the `bf` sub directory
+* You can install the `bf` interpreter to test your code: `sudo apt-get install bf`
+* Read: [Brainf*ck](https://en.wikipedia.org/wiki/Brainfuck)
+```
+julien@ubuntu:~/monty/bf$ bf 1000-school.bf 
+School
+julien@ubuntu:~/monty/bf$
+```
 
 
 
