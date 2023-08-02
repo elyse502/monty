@@ -116,6 +116,34 @@ where `<file>` is the name of the file
 * If you can’t malloc anymore, print the error message `Error: malloc failed`, followed by a new line, and exit with status `EXIT_FAILURE`.
 * You have to use `malloc` and `free` and are not allowed to use any other function from `man malloc` (realloc, calloc, …)
 
+# Tasks 📃
+## 0. push, pall: [monty](https://github.com/elyse502/monty/tree/master)
+Implement the `push` and `pall` opcodes.
+
+### The push opcode
+The opcode `push` pushes an element to the stack.
+* Usage: `push <int>`
+  * where `<int>` is an integer
+* if `<int>` is not an integer or if there is no argument given to push, print the error message `L<line_number>: usage: push integer`, followed by a new line, and exit with the status EXIT_FAILURE
+  * where is the line number in the file
+* You won’t have to deal with overflows. Use the `atoi` function
+### The pall opcode
+The opcode ``pall`` prints all the values on the stack, starting from the top of the stack.
+* Usage `pall`
+* Format: see example
+* If the stack is empty, don’t print anything
+````
+julien@ubuntu:~/monty$ cat -e bytecodes/00.m
+push 1$
+push 2$
+push 3$
+pall$
+julien@ubuntu:~/monty$ ./monty bytecodes/00.m
+3
+2
+1
+julien@ubuntu:~/monty$
+````
 
 ## AUTHOR📝
 *__NIYIBIZI Elysée__ | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/).*
