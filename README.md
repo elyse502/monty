@@ -8,9 +8,6 @@
 * [Stack operations](https://www.digitalocean.com/community/tutorials/stack-in-c)
 * [Queue operations](https://www.edureka.co/blog/queue-in-c/)
 
-### GitHub
-__There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.__
-
 # More Info
 #### Data structures
 Please use the following data structures for this project. Don’t forget to include them in your header file.
